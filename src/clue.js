@@ -4,7 +4,7 @@
 
 const suspectsArray = [
     //mrGreen
-    {
+    {
       firstName: "Jacob",
       lastName: "Green",
       occupation: "Entrepreneur",
